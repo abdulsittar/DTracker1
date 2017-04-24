@@ -1,0 +1,16 @@
+PODS:
+  - DTracker1 (0.1.0)
+
+DEPENDENCIES:
+  - DTracker1 (from `../`)
+
+EXTERNAL SOURCES:
+  DTracker1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DTracker1: 67390ea5a3d2ac5f20ecbaf2541860b7b4c50d6b
+
+PODFILE CHECKSUM: 371e163231265ae519ac24ff8e463e6fec269b83
+
+COCOAPODS: 1.2.1

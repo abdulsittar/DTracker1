@@ -1,0 +1,22 @@
+{
+  "name": "DTracker1",
+  "version": "0.1.0",
+  "summary": "A short description of DTracker1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/abdulsittar72@yahoo.com/DTracker1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "abdulsittar72@yahoo.com": "abdulsittar72@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/abdulsittar72@yahoo.com/DTracker1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DTracker1/Classes/**/*"
+}
