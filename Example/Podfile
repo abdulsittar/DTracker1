@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DTracker1_Tests' do
+  pod 'DTracker1', :path => '../'
+  
+  
+end
